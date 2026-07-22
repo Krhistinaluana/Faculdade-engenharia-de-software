@@ -13,7 +13,7 @@ semestre-1/ 01-2026
 ├── prototipagem_de_sistemas_computacionais/
 
 semestre-2/ - cursando.... 02-2026
-├── design profissionao/
+├── design profissional/
 ├── desenvolvimento Front-end para Web/
 ├── algoritmo e pensamento computacional/
 ├── modelagem de banco de dados/
