@@ -8,12 +8,15 @@ Organizar meus estudos e acompanhar minha evolução prática durante a faculdad
 ## Estrutura do repositório
 
 ```text
-semestre-1/
+semestre-1/ 01-2026
 ├── logica_programacao/
 ├── prototipagem_de_sistemas_computacionais/
 
-semestre-2/
-├── ...
+semestre-2/ - cursando.... 02-2026
+├── design profissionao/
+├── desenvolvimento Front-end para Web/
+├── algoritmo e pensamento computacional/
+├── modelagem de banco de dados/
 ```
 
 ## Conteúdos estudados
